@@ -1,0 +1,3 @@
+load_game
+high_game
+from_scratch
