@@ -1,0 +1,13 @@
+create_player BLUE
+create_player RED
+create_player YELLOW
+print_player_status BLUE
+print_player_status RED
+print_player_status YELLOW
+add_resource BLUE CAFFEINE 3
+add_resource RED LECTURE 2
+add_resource YELLOW LAB 1
+print_player_status BLUE
+print_player_status RED
+print_player_status YELLOW
+exit

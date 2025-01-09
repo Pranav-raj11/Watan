@@ -1,0 +1,5 @@
+create_board 5
+create_player BLUE
+add_resource BLUE CAFFEINE 3
+print_player_status BLUE
+exit

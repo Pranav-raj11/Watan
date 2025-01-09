@@ -1,0 +1,3 @@
+create_board 3
+move_geese 2
+exit

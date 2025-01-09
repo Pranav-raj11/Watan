@@ -1,0 +1,7 @@
+create_player BLUE
+add_goal 1
+add_criterion 2
+complete_objective goal 1 BLUE
+complete_objective goal 1 RED
+complete_objective goal 1 BLUE
+exit

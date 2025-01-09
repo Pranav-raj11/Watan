@@ -1,0 +1,5 @@
+basic_player
+multiple_players
+objectiveCompleted
+board
+moveGeese

@@ -1,0 +1,6 @@
+create_player BLUE
+print_player_status BLUE
+add_resource BLUE CAFFEINE 5
+print_player_status BLUE
+roll_dice BLUE
+exit
